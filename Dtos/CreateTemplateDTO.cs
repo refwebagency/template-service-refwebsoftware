@@ -4,7 +4,7 @@ namespace TemplateService.Dtos
 {
     public class CreateTemplateDTO
     {
-        // public ProjectType
+        // public ProjectType { get; set; }
 
         // public TodoTemplate
     }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\REF-WEB\\TemplateService\\TemplateService.csproj": {}
+    "C:\\Users\\Maxime\\Desktop\\REF-WEB\\TemplateService\\TemplateService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\REF-WEB\\TemplateService\\TemplateService.csproj": {
+    "C:\\Users\\Maxime\\Desktop\\REF-WEB\\TemplateService\\TemplateService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\REF-WEB\\TemplateService\\TemplateService.csproj",
+        "projectUniqueName": "C:\\Users\\Maxime\\Desktop\\REF-WEB\\TemplateService\\TemplateService.csproj",
         "projectName": "TemplateService",
-        "projectPath": "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\REF-WEB\\TemplateService\\TemplateService.csproj",
-        "packagesPath": "C:\\Users\\wuill\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\REF-WEB\\TemplateService\\obj\\",
+        "projectPath": "C:\\Users\\Maxime\\Desktop\\REF-WEB\\TemplateService\\TemplateService.csproj",
+        "packagesPath": "C:\\Users\\Maxime\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maxime\\Desktop\\REF-WEB\\TemplateService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\wuill\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Maxime\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
