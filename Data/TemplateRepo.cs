@@ -57,5 +57,20 @@ namespace TemplateService.Data
 
             _context.Entry(template).State = EntityState.Modified;
         }
+
+        public void CreateProjectTypeToTemplate(ProjectType projectType)
+        {
+            if (projectType == null)
+            {
+                throw new ArgumentNullException(nameof(projectType));
+            }
+
+            _context.Add(projectType);
+        }
+
+        public IEnumerable<ProjectType> GetAllProjectTypes()
+        {
+            return _context.ProjectType.ToList();
+        }
     }
 }

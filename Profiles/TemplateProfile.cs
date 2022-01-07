@@ -11,6 +11,7 @@ namespace TemplateService.Profiles
             CreateMap<Template, ReadTemplateDTO>();
             CreateMap<CreateTemplateDTO, Template>();
             CreateMap<UpdateTemplateDTO, Template>();
+            CreateMap<ProjectType, ReadProjectTypeDto>();
         }
     }
 }

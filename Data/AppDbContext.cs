@@ -8,5 +8,7 @@ namespace TemplateService.Data
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options){}
 
         public DbSet<Template> Template { get; set; }
+
+        public DbSet<ProjectType> ProjectType { get; set; }
     }
 }

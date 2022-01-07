@@ -5,11 +5,15 @@ namespace TemplateService.Data
 {
     public interface ITemplateRepo
     {
-         bool SaveChanges();
+        bool SaveChanges();
 
         void CreateTemplate(Template template);
 
+        void CreateProjectTypeToTemplate(ProjectType projectType);
+
         IEnumerable<Template> GetAllTemplate();
+
+        IEnumerable<ProjectType> GetAllProjectTypes();
 
         Template GetTemplateById(int id);
 
